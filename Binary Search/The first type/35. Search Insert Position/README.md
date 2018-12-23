@@ -1,8 +1,6 @@
-# Questions
+# Notes:
+Pay attention to the extreme case, eg. nums = [1,3,5,6] target = 7
+# Link
+https://leetcode.com/problems/search-insert-position/
 
-* search insert position
-* search for a range
-* isBadVersion
-* Closest Binary Search Tree Value
-* Find Peak Element
-* Median of Two Sorted Arrays
+
