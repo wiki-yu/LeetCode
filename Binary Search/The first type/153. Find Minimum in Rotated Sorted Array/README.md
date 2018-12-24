@@ -1,5 +1,5 @@
 # Notes
-First thing need to do is classify the situations if there is rotation, checking if the last element is greater than first one can work.
+First thing need to do is classify the situations if there is rotation, **checking if the last element is greater than first one** can work.
 # Approach 1
 Linear scan, traverse the list, find the inflection point. Time complexity is o(N)
 # Approach 2
