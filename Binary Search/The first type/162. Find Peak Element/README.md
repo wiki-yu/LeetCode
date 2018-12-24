@@ -1,8 +1,4 @@
-# Questions
-
-* search insert position
-* search for a range
-* isBadVersion
-* Closest Binary Search Tree Value
-* Find Peak Element
-* Median of Two Sorted Arrays
+# Approach 1
+Linear scan, time complexity o(N)
+# Approach 2
+Binary search, time complexity o(logN)
