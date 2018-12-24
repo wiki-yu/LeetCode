@@ -1,8 +1,4 @@
-# Questions
-
-* search insert position
-* search for a range
-* isBadVersion
-* Closest Binary Search Tree Value
-* Find Peak Element
-* Median of Two Sorted Arrays
+# Approach
+Binary search
+# Link
+https://leetcode.com/problems/first-bad-version/
