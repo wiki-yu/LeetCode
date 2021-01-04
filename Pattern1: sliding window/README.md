@@ -1,15 +1,20 @@
-Pattern 1: Sliding Window
+# Pattern 1: Sliding Window
 
-** Maximum Sum Subarray of Size K (easy)
+## Questions:
 
-** Smallest Subarray with a given sum (easy)
+* Maximum Sum Subarray of Size K (easy)
+Reference Link: https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7
 
-Longest Substring with K Distinct Characters (medium)
+* Smallest Subarray with a given sum (easy)
 
-Fruits into Baskets (medium)
+* Longest Substring with K Distinct Characters (medium)
 
-No-repeat Substring (hard)
+* Fruits into Baskets (medium)
 
-Longest Substring with Same Letters after Replacement (hard)
+* No-repeat Substring (hard)
 
-Longest Subarray with Ones after Replacement (hard)
+* Longest Substring with Same Letters after Replacement (hard)
+
+* Longest Subarray with Ones after Replacement (hard)
+
+
